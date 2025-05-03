@@ -1,10 +1,10 @@
 <?php 
 
 $sname= "localhost";
-$unmae= "tevinb";
-$password= "Tevin1944";
+$unmae= "tevokicks";
+$password= "";
 
-$db_name = "tevinb";
+$db_name = "";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
